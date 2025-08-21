@@ -1,9 +1,6 @@
 /*
 
 🧱 1. Foundations & Core Concepts
-* What is React? – Library vs Framework, Virtual DOM, JSX
-* Component-based architecture, Tree Reconciliation
-* CRA, Vite, Next.js basics & differences
 * React Native architecture overview – Bridge, Native Threads, JavaScript Thread
 * Rendering pipeline – native UI components vs DOM
 * Expo vs Bare React Native
@@ -48,8 +45,6 @@
 * Keyboard, DeepLink, Dimensions listeners cleanup
 
 🧭 5. Routing & Navigation
-* React Router – BrowserRouter, Route, Link
-* Nested & dynamic routes
 * React Navigation – Stack / Tab / Drawer Navigator
 * Passing params between screens
 * Deep Linking, Linking API
@@ -172,5 +167,6 @@
 * Play Console policy compliance (privacy/data safety/ad-ID)
 * Handling iOS App Store review rejections & guidelines
 * Hotfix strategies – expedited releases & OTA bypassing stores
+
 
 */
