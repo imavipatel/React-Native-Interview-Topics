@@ -26,8 +26,10 @@
 * Lifting state up & composition
 * useReducer
 * Context API & useContext
-* Redux – store, reducers, middleware
-* Redux Thunk vs Saga vs Toolkit
+* Redux – store, reducers, middleware, useSelector, useDispatch
+* Context API vs Redux
+* Redux Middleware
+* Redux Thunk vs Redux Saga vs Redux Toolkit
 * MobX, Zustand, Recoil
 * Global vs local state – best practices
 * Persisted state – redux-persist, AsyncStorage, MMKV
@@ -36,8 +38,10 @@
 🔁 4. Component Lifecycle
 * Lifecycle methods in Class Components (mount, update, unmount)
 * useEffect – dependency array, cleanup
+* class components vs functional components lifecycle
 * useLayoutEffect vs useEffect
 * useRef & DOM/native refs
+* useRef and useCallback, useMemo for performance
 * App lifecycle – AppState, useFocusEffect, useIsFocused
 * useImperativeHandle, forwardRef
 * Avoiding memory leaks (stale closures, running timers)
