@@ -138,7 +138,7 @@
 * Push Notifications (FCM/APNS), Local & Scheduled Notifications
 * Background Tasks – Headless JS, WorkManager, BackgroundFetch
 * Dynamic Links & Deep Linking
-* Gesture Handler & Reanimated (V1 / V2)
+* Gesture Handler & Reanimated (V1 / V2 / V3 /V4)
 * Animations – Animated API, LayoutAnimation, Reanimated 2
 * Bluetooth, NFC & Device Sensors APIs
 * File System Access (react-native-fs, expo-filesystem)
