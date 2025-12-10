@@ -157,7 +157,7 @@
 * Android build types – debug, release, signing, ABI/App Bundle splits
 * iOS provisioning – certificates, profiles, App Store Connect workflows
 * Fastlane, EAS Build, automatic versioning
-* CI/CD pipelines – GitHub Actions, Bitrise, CircleCI
+* CI/CD pipelines – GitHub Actions, Bitrise, CircleCI, Jenkins
 * CodePush / OTA updates – staged rollout, rollback, hotfix pipelines
 * Reducing app size – Hermes, ProGuard/R8, resource configs, asset compression
 * App Store best practices – phased rollout, listing optimization
@@ -171,6 +171,5 @@
 * Play Console policy compliance (privacy/data safety/ad-ID)
 * Handling iOS App Store review rejections & guidelines
 * Hotfix strategies – expedited releases & OTA bypassing stores
-
 
 */
